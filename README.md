@@ -114,7 +114,7 @@
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
-## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://heroku.com/deploy?template=https://github.com/Akashvro/Leech-Pro)
+## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://heroku.com/deploy?template=https://github.com/akashmuraliNEW/leechnew)
 
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
